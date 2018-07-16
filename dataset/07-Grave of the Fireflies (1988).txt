@@ -1,0 +1,4 @@
+Title=Grave of the Fireflies (1988)
+Description=In the latter part of World War II, a boy and his sister, orphaned when their mother is killed in the firebombing of Tokyo, are left to survive on their own in what remains of civilian life in Japan. The plot follows this boy and his sister as they do their best to survive in the Japanese countryside, battling hunger, prejudice, and pride in their own quiet, personal battle.
+Genres=Animation,Drama,Family,War,
+Tags=japan,loss of family,loss of father,hunger,world war ii,shelter,boy,sister,food,wartime,tokyo japan,little girl,death,starving,

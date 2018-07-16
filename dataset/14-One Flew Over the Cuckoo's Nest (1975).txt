@@ -1,0 +1,4 @@
+Title=One Flew Over the Cuckoo's Nest (1975)
+Description=While serving time for insanity at a state mental hospital, implacable rabble-rouser Randle Patrick McMurphy inspires his fellow patients to rebel against the authoritarian rule of head nurse Mildred Ratched.
+Genres=Drama,
+Tags=individual,rebel,self-destruction,wheelchair,lunatic asylum,dying and death,rage and hate,freedom,insanity,basic rights and human rights,psychiatrist,

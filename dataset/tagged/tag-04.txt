@@ -1,0 +1,6 @@
+A/DT man/NN with/IN a/DT low/JJ IQ/NNP has/VBZ accomplished/VBN great/JJ things/NNS in/IN his/PRP$ life/NN and/CC been/VBN present/JJ during/IN significant/JJ historic/JJ events/NNS -/: in/IN each/DT case/NN ,/, far/RB exceeding/VBG what/WP anyone/NN imagined/VBD he/PRP could/MD do/VB ./. 
+
+Yet/RB ,/, despite/IN all/PDT the/DT things/NNS he/PRP has/VBZ attained/VBN ,/, his/PRP$ one/CD true/JJ love/NN eludes/VBZ him/PRP ./. 
+
+&#/RB 39/CD ;Forrest/NN Gump&#/NNP 39/CD ;/: is/VBZ the/DT story/NN of/IN a/DT man/NN who/WP rose/VBD above/IN his/PRP$ challenges/NNS ,/, and/CC who/WP proved/VBD that/IN determination/NN ,/, courage/NN ,/, and/CC love/NN are/VBP more/RBR important/JJ than/IN ability/NN ./. 
+

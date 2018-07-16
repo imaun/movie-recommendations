@@ -1,0 +1,4 @@
+Title=Schindler's List (1993)
+Description=Told from the perspective of businessman Oskar Schindler who saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory. Schindler’s List is based on a true story, illustrated in black and white and controversially filmed in many original locations.
+Genres=Drama,History,War,
+Tags=factory,concentration camp,hero,world war ii,nazis,defense industry,biography,

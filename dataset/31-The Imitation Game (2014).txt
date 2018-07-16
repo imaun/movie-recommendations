@@ -1,0 +1,4 @@
+Title=The Imitation Game (2014)
+Description=Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain&#39;s top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.
+Genres=History,Drama,Thriller,War,
+Tags=england,world war ii,mathematician,based on biography,logician,cryptography,

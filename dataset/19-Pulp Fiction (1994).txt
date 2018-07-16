@@ -1,0 +1,4 @@
+Title=Pulp Fiction (1994)
+Description=A burger-loving hit man, his philosophical partner, a drug-addled gangster&#39;s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+Genres=Thriller,Crime,
+Tags=transporter,brothel,drug dealer,boxer,massage,stolen money,crime boss,dance contest,junkyard,kamikaze,ambiguous ending,briefcase,redemption,heirloom,pulp fiction,reference to al green,theft,brutality,

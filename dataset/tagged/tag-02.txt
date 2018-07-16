@@ -1,0 +1,2 @@
+This/DT Oscar-winning/NNP animated/VBD short/JJ film/NN tells/VBZ the/DT story/NN of/IN one/CD man&#/NN 39/CD ;s/NNS love/VBP life/NN as/IN seen/VBN through/IN the/DT eyes/NNS of/IN his/PRP$ best/JJS friend/NN and/CC dog/NN ,/, Winston/NNP ,/, and/CC revealed/VBD bite/NN by/IN bite/NN through/IN the/DT meals/NNS they/PRP share/VBP ./. 
+

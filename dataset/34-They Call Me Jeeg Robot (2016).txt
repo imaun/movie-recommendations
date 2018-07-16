@@ -1,0 +1,4 @@
+Title=They Call Me Jeeg Robot (2016)
+Description=A small-time Roman criminal accidentally acquires a superhuman strength and becomes nearly invulnerable.
+Genres=Action,Fantasy,
+Tags=superhero,

@@ -1,0 +1,4 @@
+Title=Princess Mononoke (1997)
+Description=Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.
+Genres=Adventure,Fantasy,Animation,
+Tags=fight,wolf,village and town,iron,pan,wild boar,territory,friendship,princess,good versus evil,

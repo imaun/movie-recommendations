@@ -1,0 +1,4 @@
+Title=The Godfather (1972)
+Description=The story spans the years from 1945 to 1955 and chronicles the fictional Italian-American Corleone crime family. When organized crime family patriarch Vito Corleone barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.
+Genres=Drama,Crime,
+Tags=italy,love at first sight,loss of father,patriarch,organized crime,mafia,lawyer,italian american,crime family,part of trilogy,rise to power,mob boss,1940s,
